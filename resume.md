@@ -1,13 +1,3 @@
-- [RESUME](#resume)
-  - [INFO](#info)
-  - [SKILL](#skill)
-    - [basic](#basic)
-    - [framework](#framework)
-    - [ui lib](#ui-lib)
-  - [EXPERIENCE](#experience)
-  - [PROJECT](#project)
-  - [I WANT TO **SAY**](#i-want-to-say)
-
 # RESUME
 
 > 希望应聘贵公司的 **前端开发** 岗位
